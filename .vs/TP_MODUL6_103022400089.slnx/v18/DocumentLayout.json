@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Semester 4\\Konstruksi Perangkat Lunak\\TP_MODUL6_103022400089\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA82E314-6157-4D4A-BBAB-A32A015887FF}|TP_MODUL6_103022400089\\TP_MODUL6_103022400089.csproj|c:\\semester 4\\konstruksi perangkat lunak\\tp_modul6_103022400089\\tp_modul6_103022400089\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA82E314-6157-4D4A-BBAB-A32A015887FF}|TP_MODUL6_103022400089\\TP_MODUL6_103022400089.csproj|solutionrelative:tp_modul6_103022400089\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{791496AB-D869-0960-8480-8ED2B4B4E16F}|TP_MODUL6_103022400089\\TP_MODUL6_103022400089.csproj|c:\\semester 4\\konstruksi perangkat lunak\\tp_modul6_103022400089\\tp_modul6_103022400089\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{791496AB-D869-0960-8480-8ED2B4B4E16F}|TP_MODUL6_103022400089\\TP_MODUL6_103022400089.csproj|solutionrelative:tp_modul6_103022400089\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791496AB-D869-0960-8480-8ED2B4B4E16F}|TP_MODUL6_103022400089\\TP_MODUL6_103022400089.csproj|c:\\semester 4\\konstruksi perangkat lunak\\tp_modul6_103022400089\\tp_modul6_103022400089\\sayamusictrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{791496AB-D869-0960-8480-8ED2B4B4E16F}|TP_MODUL6_103022400089\\TP_MODUL6_103022400089.csproj|solutionrelative:tp_modul6_103022400089\\sayamusictrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Semester 4\\Konstruksi Perangkat Lunak\\TP_MODUL6_103022400089\\TP_MODUL6_103022400089\\Program.cs",
-              "RelativeDocumentMoniker": "TP_MODUL6_103022400089\\Program.cs",
-              "ToolTip": "C:\\Semester 4\\Konstruksi Perangkat Lunak\\TP_MODUL6_103022400089\\TP_MODUL6_103022400089\\Program.cs",
-              "RelativeToolTip": "TP_MODUL6_103022400089\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T17:06:33.051Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
@@ -44,6 +35,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SayaMusicTrack.cs",
+              "DocumentMoniker": "C:\\Semester 4\\Konstruksi Perangkat Lunak\\TP_MODUL6_103022400089\\TP_MODUL6_103022400089\\SayaMusicTrack.cs",
+              "RelativeDocumentMoniker": "TP_MODUL6_103022400089\\SayaMusicTrack.cs",
+              "ToolTip": "C:\\Semester 4\\Konstruksi Perangkat Lunak\\TP_MODUL6_103022400089\\TP_MODUL6_103022400089\\SayaMusicTrack.cs",
+              "RelativeToolTip": "TP_MODUL6_103022400089\\SayaMusicTrack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T17:14:10.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Semester 4\\Konstruksi Perangkat Lunak\\TP_MODUL6_103022400089\\TP_MODUL6_103022400089\\Program.cs",
+              "RelativeDocumentMoniker": "TP_MODUL6_103022400089\\Program.cs",
+              "ToolTip": "C:\\Semester 4\\Konstruksi Perangkat Lunak\\TP_MODUL6_103022400089\\TP_MODUL6_103022400089\\Program.cs",
+              "RelativeToolTip": "TP_MODUL6_103022400089\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T17:06:33.051Z",
+              "EditorCaption": ""
             }
           ]
         }
